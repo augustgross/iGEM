@@ -1,0 +1,1 @@
+https://ftp.ebi.ac.uk/pub/databases/cryptic/release_june2022/
