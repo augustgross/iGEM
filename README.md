@@ -4,13 +4,13 @@ We are predicting the antimicrobial resistance (AMR) of Mycobacterium tuberculos
 
 ## Description
 
-We use logistic regression with feature selection to predict the AMR of Mycobacterium tuberculosis. The data is obtained from the CRyPTIC project.
+We are using logistic regression to predict the AMR of Mycobacterium tuberculosis. The data is obtained from the CRyPTIC project.
 
 ## Drug Susceptibility Data
 
 Below is a table representing the susceptibility data for various drugs:
 
-| Drug | S (Susceptible) | R (Resistant) | I (Intermediate) | TTL (Total) |
+| Drug | S (Susceptible) | R (Resistant) | I (Intermediate) |    Total    |
 |------|-----------------|---------------|------------------|-------------|
 | AMI  | 11188           | 882           | 0                | 12070       |
 | BDQ  | 11957           | 109           | 0                | 12066       |
